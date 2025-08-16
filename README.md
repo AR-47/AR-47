@@ -1,10 +1,16 @@
-<h2 align="left">
+<h1 align="left">
 
-Hi 👋! My name is R J Adithya Yadav and I'm a Frontend Developer and Data Analyst, from Presidency University.
+Hi 👋! My name is R J Adithya Yadav
 
-</h2>
+</h1>
 
+<h3 align="left">
 
+I'm a Frontend Developer and Data Analyst from Presidency University. I specialize in building user-friendly web interfaces and leveraging data to create impactful insights.
+
+</h3>
+
+<br>
 
 <div align="center">
 
@@ -14,11 +20,11 @@ Hi 👋! My name is R J Adithya Yadav and I'm a Frontend Developer and Data Anal
 
 </div>
 
-
+<br clear="both">
 
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif" alt="Fun gif" />
 
-
+### **My Tech Stack**
 
 <div align="left">
 
@@ -38,7 +44,9 @@ Hi 👋! My name is R J Adithya Yadav and I'm a Frontend Developer and Data Anal
 
 </div>
 
+<br clear="left">
 
+### **Connect With Me**
 
 <div align="left">
 
@@ -56,10 +64,6 @@ Hi 👋! My name is R J Adithya Yadav and I'm a Frontend Developer and Data Anal
 
 </div>
 
-
-
-<br clear="both">
-
-
+<br>
 
 <img src="https://raw.githubusercontent.com/AR-47/AR-47/output/snake.svg" alt="Snake animation" />
