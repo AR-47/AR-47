@@ -11,8 +11,10 @@ I am a published researcher in the field of **Medical AI** and have built high-p
 
 # 📊 GitHub Stats:
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=AR-47&theme=dark&show_icons=true&include_all_commits=true&count_private=true)<br/>
+![](https://profile-stats1.vercel.app/api?username=AR-47&theme=dark&show_icons=true&include_all_commits=true&count_private=true)<br/>
+
 ![](https://nirzak-streak-stats.vercel.app/?user=AR-47&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AR-47&theme=dark&include_all_commits=true&count_private=true&layout=compact)
+
+![](https://profile-stats1.vercel.app/api/top-langs/?username=AR-47&theme=dark&include_all_commits=true&count_private=true&layout=compact)
 
 [![github contribution grid snake](https://github-profile-trophy.vercel.app/?username=AR-47&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
